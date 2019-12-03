@@ -41,7 +41,7 @@ CenterNet is a framework for object detection with deep convolutional neural net
 ## Preparation
 Please first install [Anaconda](https://anaconda.org) and create an Anaconda environment using the provided package list.
 ```
-conda create --name CenterNet --file conda_packagelist.txt
+conda create --name CenterNet --file requirements.yml
 ```
 
 After you create the environment, activate it.
